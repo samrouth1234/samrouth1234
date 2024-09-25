@@ -15,7 +15,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-- 👋 Hi, I’m Samrouth
+- 👋 Hi, I’m Bich Samrouth
 - 👀 I’m interested in computer science 
 - 🌱 I’m currently studying computer science at the University of Phnom Penh, and he is expected to graduate in 2025.
 - 💞️ "I am passionate about technology and using it to solve real-world problems. I am also passionate about helping others and am actively involved in my community. I am a highly skilled and motivated individual. I am proficient in C, C++, Java, Spring Boot, Next.js, Python, and SQL, and I have experience with cloud computing platforms such as Digitalocean AWS and Google cloud "
