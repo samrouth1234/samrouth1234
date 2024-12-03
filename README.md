@@ -20,11 +20,6 @@
 - 🌱 Full stack developer and graduated Computer Science Bachelor's Degree at the Royal University of Phnom
 - 💞️ I am passionate about technology and using it to solve real-world problems. I am also passionate about helping others and am actively involved in my community. I am a highly skilled and motivated individual. I am proficient in C, C++, Java, Spring Boot, Next.js, Python, and SQL, and I have experience with cloud computing platforms such as Digitalocean AWS and Google cloud 
 
-
-| **Profile stats** | **Streak stats** |
-|:---:|:---:|
-| <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrouth1234&show_icons=true&locale=en" alt="samrouth1234" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrouth1234&" alt="samrouth1234" /></p> ||
-
 ###  Languages and Tools :
 ---
 | **Back-End**  | **Front-End** | **Database** |
