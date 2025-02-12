@@ -3,7 +3,7 @@
 <h1 align="center"> Hi 👋 , I’m samrouth </h1>
 
 - I’m interested in computer science 
-- Full stack developer and graduated Computer Science Bachelor's Degree at the Royal University of Phnom
+- Front End developer and graduated Computer Science Bachelor's Degree at the Royal University of Phnom
 
 ### Connect with me:
 <div id="header">
