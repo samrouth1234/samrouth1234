@@ -8,13 +8,13 @@
 ### Connect with me:
 <div id="header">
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.facebook.com/profile.php?id=100069295177735">
       <img src="https://img.shields.io/badge/Facebookk-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/@samrouthbich3190/videos">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
-    <a href="your-twitter-URL">
+    <a href="https://www.linkedin.com/in/samrouth-bich-84b6262a5/">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
